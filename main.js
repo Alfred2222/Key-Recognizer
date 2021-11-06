@@ -57,13 +57,13 @@ function my_keydown(e){
     }
 
     function arrow_key(){
-        img_image="otherkey.png"
+        img_image="Arrkey.png"
         add();
     }
 
     function other_key(){
         img_image="otherkey.png"
-        add
+        add();
     }
 
 
